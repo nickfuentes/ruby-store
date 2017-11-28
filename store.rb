@@ -102,3 +102,5 @@ accessory = Accessory.create(name: "Necklace")
 accessory.stock_count = 1
 
 Shirt.in_stock_report
+Pant.in_stock_report
+Accessory.in_stock_report
